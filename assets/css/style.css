@@ -348,9 +348,9 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
+  background: linear-gradient(to right, rgba(40, 40, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../../images.html/pexels-secret-garden-931177.jpg") center top no-repeat;
   z-index: 0;
-  border-radius: 0 0 50% 50%;
+  border-radius: 0 0 10% 50%;
   transform: translateX(-50%) rotate(0deg);
 }
 
@@ -2314,4 +2314,61 @@ section {
 
 #footer .credits a {
   color: #a2cce3;
+}
+#img-size {
+  width: 200px;
+}
+#htj-size {
+  width:300px;
+}
+#bal-size {
+  width:300px;
+}
+#cus-size {
+  width:300px;
+}
+#ab-size {
+  width:300px;
+}
+#hts-size {
+  width:300px;
+}
+#os-size {
+  width:300px;
+}
+#ser-size {
+  width:300px;
+}
+#fmt-size {
+  width:300px;
+}
+#p-size {
+  width:300px;
+}
+#mnm-size {
+  width:300px;
+}
+#adv-size {
+  width:300px;
+}
+#team-size {
+  width:300px;
+}
+#hta-size {
+  width:300px;
+}
+#std-size {
+  width:300px;
+}
+#fmn-size {
+  width:300px;
+}
+#aat-size {
+  width:300px;
+}
+#fmc-size {
+  width:300px;
+}
+#wwd-size {
+  width:300px;
 }
